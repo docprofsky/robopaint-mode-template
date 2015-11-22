@@ -1,0 +1,30 @@
+{
+  "name": "robopaint-mode-name",
+  "version": "0.0.1",
+  "type": "robopaint_mode",
+  "main": "mode-js-file.js",
+  "author": "author-name",
+  "license": "MIT",
+  "robopaint": {
+    "core": false,
+    "debug": true,
+    "i18n": "native",
+    "index": "mode-index-file.html",
+    "name": "mode-name",
+    "opensvg": false,
+    "weight": 2,
+    "dependencies": [
+      "paper",
+      "jquery",
+      "underscore",
+      "mediasets"
+    ],
+    "graphics": {
+      "icon": "images/template_icon.svg",
+      "previews": [
+        "images/example_preview_1.jpg",
+        "images/preview_1.svg"
+      ]
+    }
+  }
+}
