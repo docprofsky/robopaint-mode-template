@@ -1,14 +1,14 @@
 {
   "_meta": {
-    "creator": "creator-text",
+    "creator": "docprofsky",
     "target": "en-US",
-    "release": "0.0.1",
-    "basetype": "mode"
+    "release": "0.0.1"
   },
-  "info":{
+  "info": {
     "name": "name-text",
     "use": "use-text",
-    "detail": "detail-text",
+    "detail": "detail-text"
+  },
   "buttons": {
     "save": "Click to save this as the current drawing.",
     "print": "Click to save and move to print mode."
