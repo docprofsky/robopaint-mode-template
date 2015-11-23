@@ -1,5 +1,5 @@
 /**
- * @file Holds all RoboPaint mode-name mode paper.js code
+ * @file Holds all RoboPaint template mode paper.js code
  */
 
 // Animation frame callback

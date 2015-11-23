@@ -1,5 +1,5 @@
 /**
- * @file Holds all RoboPaint mode-name mode code.
+ * @file Holds all RoboPaint template mode code.
  *   @see the mode readme for all the goodies that modes come with. Also,
  *      any robopaint dependencies you add to the package JSON will be available
  *      as well, like jQuery $ and underscore _.
@@ -15,7 +15,7 @@ mode.pageInitReady = function () {
   // Initialize the paper.js canvas with wrapper margin and other settings.
   canvas.domInit({
     replace: '#paper-placeholder', // jQuery selecter of element to replace
-    paperScriptFile: 'mode-name.ps.js', // The main PaperScript file to load
+    paperScriptFile: 'template.ps.js', // The main PaperScript file to load
     wrapperMargin: {
       top: 30,
       left: 30,

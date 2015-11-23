@@ -1,16 +1,16 @@
 {
-  "name": "robopaint-mode-name",
+  "name": "robopaint-mode-template",
   "version": "0.0.1",
   "type": "robopaint_mode",
-  "main": "mode-js-file.js",
+  "main": "template.js",
   "author": "author-name",
   "license": "MIT",
   "robopaint": {
     "core": false,
     "debug": true,
     "i18n": "native",
-    "index": "mode-index-file.html",
-    "name": "mode-name",
+    "index": "template.html",
+    "name": "template",
     "opensvg": false,
     "weight": 2,
     "dependencies": [
