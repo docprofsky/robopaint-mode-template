@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "type": "robopaint_mode",
   "main": "template.js",
-  "author": "author-name",
+  "author": "docprofsky",
   "license": "MIT",
   "robopaint": {
     "core": false,
