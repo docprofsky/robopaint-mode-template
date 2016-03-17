@@ -1,7 +1,7 @@
 {
   "name": "robopaint-mode-template",
   "version": "0.0.1",
-  "type": "robopaint_mode",
+  "robopaint-type": "mode",
   "main": "template.js",
   "author": "docprofsky",
   "license": "MIT",
