@@ -37,7 +37,8 @@ module.exports = {
       "template.ps.js"
     ],
     "delete": [
-      ".git"
+      ".git",
+      "replace-values.js"
     ]
   }
 }
